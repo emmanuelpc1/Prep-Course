@@ -1,0 +1,10 @@
+===== Conceptos ======
+Variables. Es como una cajita en la que puedes poder alguna información de manera temporal: Un texto, numero u otro elemento.
+
+Strings. Son como cajitas que solo te permiten contener caracteres como letras, números o simbolos. Estos no pueden hacer operaciones matematicas, aunque solo sean números.
+
+Funciones (argumentos, return). Son bloques de código que se crean para llamarlas indefinidamente, y así no tengas que escribir el mismo código una y otra ves. Te ayuda a no tener mucho código y si necesitas hacer una corrección solo se corrige en la función una vez.
+
+Declaraciones if. Sirven para controlar que bloque de código se ejecutará en base a una condicionante. Si la condición se cumple (true) se ejecuta un bloque de código; si la condición no se cumple (false) se ejecuta otro bloque de código.
+
+Valores booleanos (true, false). Es el resultado de una condición que se evalua; es una estado que solo tiene dos posibles valores (encendido o apagado), (verdadero, falso), (true, false), (1 , 0), (se cumple, no se cumple).
