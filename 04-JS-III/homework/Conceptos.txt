@@ -1,0 +1,1 @@
+* Arrays - Son espacios de memoria donde se almacena mas de un tipo de informacion. Se segmenta conforme ingresamos los datos o se crean los segmento cuando le asignamos la información directamente. Podríamos imaginarlo como una linea de varias cajas de zapatos, en donde cada caja almacena una información.
