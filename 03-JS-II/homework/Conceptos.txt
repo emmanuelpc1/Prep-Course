@@ -1,0 +1,9 @@
+Conceptos:
+* for - Permite que un bloque de código se repita una N cantidad veces. Se basa en una variable que se declara dentro del mismo for, la cual aumenta o disminuye de acuerdo a como lo necesitemos y se ejecuta tantas veces la validacion sea verdadera (True).
+
+* `&&`, `||`, `!` - Te permiten realizar multiples validaciones, las cuales se pueden combinar de acuerdo a lo que necesitemos.
+
+a > b && a < c : "a" mayor que "b" Y "a" menor a "c"
+a > b || b > c : "a" mayor que "b" O "b" mayor a "c"
+
+! este permite cambiar su valor, si es true se convierte a false; si es false se convierte a true.
