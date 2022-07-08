@@ -1,0 +1,9 @@
+Objetos- es la representación de un elemento real en un modo imaginario o virtual. Es decir es una manera de programación que le permite al programador plasmar en el lenguaje un elemento. Por ejemplo, cuando quieres representar a un automovil, lo representarias como objeto.
+
+Propiedades - Las propiedades de un objeto es lo permiten al programador darle valores a los objetos. Estos valores son acordes al objeto. En el ejemplo del auto, puede tener propiedades como nombre, color, modelo, marca y demas atributos.
+
+Métodos - Son las acciones o modificadores que un objeto puede realizar sobre si mismo. En el auto podria ser agregar elemento, borrar elemento, leer valores en base de datos, modificar elemento, etc.
+
+Bucle for…in - Este tipo de bucle nos permite recorrer las propiedades con sus valores, y los metodos que existen dentro de un objeto. En el ejemplo del auto nos indicaria que existen  nombre, color, modelo, marca; asi como los metodos agregar elemento, borrar elemento, leer valores en base de datos, modificar elemento.
+
+Notación de puntos vs notación de corchetes - Con la notacion de punto podemos asignarle o leer el valor a las propiedades del objeto con el nombre de la propiedad. En el caso de los corchetes, la propiedad se toma como un string, puede se ingresada directamente o puede pasar por referencia como con un a variable.
